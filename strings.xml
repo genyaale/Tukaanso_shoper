@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tukaanso Shopper</string>
+    <string name="cart_title">Cart-kayga</string>
+    <string name="checkout_title">Checkout</string>
+
+    <string name="capture_cta">Capture Current Product &amp; Add to App Cart</string>
+    <string name="cart_empty">Cart-ku weli waa madhan. Tag SHEIN/Amazon/Temu/AliExpress, dooro alaab, kadibna riix \"Capture\".</string>
+    <string name="place_order">Dir Dalabka</string>
+    <string name="order_placed">Dalabkaaga waa la diiwaan geliyay! (Demo)</string>
+    <string name="select_store">Dooro Dukaanka</string>
+
+    <string-array name="store_names">
+        <item>SHEIN</item>
+        <item>Amazon</item>
+        <item>Temu</item>
+        <item>AliExpress</item>
+    </string-array>
+
+    <string-array name="payment_methods">
+        <item>EVC Plus</item>
+        <item>Zaad</item>
+        <item>e-Dahab</item>
+        <item>Cash on Delivery</item>
+    </string-array>
+</resources>
